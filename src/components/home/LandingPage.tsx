@@ -17,17 +17,17 @@ export const LandingPage = () => {
         </div>
         <div className="flex gap-5 mt-10">
           <img
-            src="../src/assets/images/Frame3.svg"
+            src="./assets/images/Frame3.svg"
             className="w-[225px] h-[168px] cursor-pointer"
             alt="card"
           />
           <img
-            src="../src/assets/images/Frame1.svg"
+            src="./assets/images/Frame1.svg"
             className="w-[225px] h-[168px] cursor-pointer"
             alt="card"
           />
           <img
-            src="../src/assets/images/Frame2.svg"
+            src="./assets/images/Frame2.svg"
             className="w-[225px] h-[168px] cursor-pointer"
             alt="card"
           />

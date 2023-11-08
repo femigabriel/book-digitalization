@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div className=" justify-center flex bg-[#E1D1F6] px-5 py-5">
       <img
-        src="../src/assets/icons/footer.svg"
+        src="./assets/icons/footer.svg"
         className="w-[12.077px] h-[13.078px] cursor-pointer mt-0.5 mr-2"
         alt="card"
       />

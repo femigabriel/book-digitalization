@@ -61,14 +61,14 @@ export const Feautures = () => {
               </p>
             </div>
             <img
-              src="../src/assets/images/features1.svg"
+              src="./assets/images/features1.svg"
               className="w-[413.94px] h-[245.871px]"
               alt="features-1"
             />
           </div>
           <div className="flex justify- gap-[80px] my-10 w-full">
             <img
-              src="../src/assets/images/features2.svg"
+              src="./assets/images/features2.svg"
               className="w-[413.94px] h-[245.871px]"
               alt="features-2"
             />
@@ -90,14 +90,14 @@ export const Feautures = () => {
               </p>
             </div>
             <img
-              src="../src/assets/images/features3.svg"
+              src="./assets/images/features3.svg"
               className="w-[413.94px] h-[245.871px]"
               alt="features-3"
             />
           </div>
           <div className="flex justify- gap-[80px] my-10 w-full">
             <img
-              src="../src/assets/images/features4.svg"
+              src="./assets/images/features4.svg"
               className="w-[413.94px] h-[245.871px]"
               alt="features-4"
             />

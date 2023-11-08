@@ -6,7 +6,7 @@ export const AboutPage = () => {
       <div className="flex justify-between">
         <span className="text-[0.850em]">About</span>
         <img
-          src="../src/assets/icons/scrollUp.svg"
+          src="./assets/icons/scrollUp.svg"
           className=" cursor-pointer w-[64px] h-[59px]"
           alt="scroll-up"
         />
@@ -33,7 +33,7 @@ export const AboutPage = () => {
           </button>
         </div>
         <img
-          src="../src/assets/images/charlieImg.svg"
+          src="./assets/images/charlieImg.svg"
           className=" cursor-pointer w-[365px] h-[351.46px]"
           alt="scroll-up"
         />
