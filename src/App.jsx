@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <div className="">
-        {/* <HomePage /> */}
+        <HomePage />
         {/* <ReadBookPage /> */}
-        <ActivitiesPage />
+        {/* <ActivitiesPage /> */}
       </div>
     </>
   );
